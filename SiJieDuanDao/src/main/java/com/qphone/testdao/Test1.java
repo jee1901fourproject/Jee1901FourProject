@@ -14,10 +14,6 @@ public class Test1 {
 		System.err.println("seshi3");
 		
 		
-		System.out.println("test2");
-		
-		System.out.println("test3");
-		
 		
 	}
 	

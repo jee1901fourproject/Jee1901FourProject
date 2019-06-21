@@ -11,6 +11,7 @@ public class Test1 {
 		
 		System.out.println("≤‚ ‘");
 		System.err.println("ceshi2");
+		System.err.println("seshi3");
 		
 	}
 	

@@ -12,7 +12,7 @@ public class addr {
 	public String t(){
 		
 		
-		return "WEB-INF/jsp/index.jsp";
+		return "WEB-INF/jsp/content-header-list.jsp";
 	}
 	
 

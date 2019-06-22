@@ -15,10 +15,5 @@ public class addr {
 		return "WEB-INF/jsp/index.jsp";
 	}
 	
-	@GetMapping("/index")
-	private String index(){
-		return "WEB-INF/jsp/admin-list.jsp";
-	}
-	
 
 }
